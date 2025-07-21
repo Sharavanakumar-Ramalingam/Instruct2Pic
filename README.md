@@ -1,4 +1,4 @@
-# 🖼️ InstructPix2Pix – Image Editing with Instructions
+# 🖼️ Instruct2Pic – Image Editing with Instructions
 
 This project demonstrates interactive image editing using natural language prompts powered by the **InstructPix2Pix** model from Hugging Face's `diffusers` library. It allows users to upload an image, provide a textual instruction (prompt), and receive an AI-generated modified image.
 
@@ -97,4 +97,4 @@ Sharavanakumar Ramalingam
 ## 🌟 Support
 
 If you found this project helpful, give it a ⭐ on GitHub:  
-https://github.com/your-username/instruct-pix2pix-app
+https://github.com/Sharavanakumar-Ramalingam/Instruct2Pic
